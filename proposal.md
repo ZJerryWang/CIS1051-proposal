@@ -16,7 +16,7 @@ The user of this software first need to register an account, and then users can 
 We will combine MIS 3580 project to this course. Inspiring by the Notes app, we want to create a "To do list" app to help people manage their work and study during the pandemic.
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
-I will collaborate with Zejun Wang. His email address is tuh04717@temple.edu. We have the same TA Tamara Katic.
+I will collaborate with Zihao Pan. His email address is tug83014@temple.edu. We are both in section 2.
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
@@ -34,4 +34,4 @@ Can mark task completion and display the date and time.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-We need to learn react-native frame, android studio and javascript to finish this mobile app. Zejun is going to learn javascript and react-native frame, and I will work on the UI design and android studio.
+In order to finish this project, we need to learn react-native, android studio and javacript. I am going to learn and build javascipt and react-native frame, and Zihao is focusing on UI design and android studio emulator.
